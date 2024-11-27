@@ -8,9 +8,9 @@ To excecute Fitpeo Automation script you need to follow below steps
 3- Enter valid group ID and artifact ID and click on the finish
 4- Open pom.xml file n local
 5- Copy paste the dependency of selenium from pom.xml(in remote)
-4- Create a java class named FitpeoAssignment under src/main/java
-5- Copy paste the code from src/main/java/fitpeo/FitpeoAssignment.java
-6- Lastly run by right clicking and run as java apllication
+6- Create a java class named FitpeoAssignment under src/main/java
+7- Copy paste the code from src/main/java/fitpeo/FitpeoAssignment.java
+8- Lastly run by right clicking and run as java apllication
 
 Objective of assignment:
 The objective of this assignment is to assess  ability to automate the navigation and interaction with web elements using a web automation tool of your choice (e.g., Selenium, Cypress). Need to complete all the Test Cases given below
